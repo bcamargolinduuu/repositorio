@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+body{
+ background-color: #909090;
+}
+
+.nome{
+    position: absolute;
+    width: 892.98px;
+    height: 56.74px;
+    left: 495.08px;
+    top: 83px;
+    
+    font-family: 'Asap';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 73px;
+    
+    color: #1E1E1E;
+    
+    transform: rotate(0.08deg);    
+}
+
+.tres{
+    position: absolute;
+    width: 392px;
+    height: 704px;
+    left: 86px;
+    top: 113px;
+    
+    background: #0C0C0C;
+}
+
+.foto{
+    position: absolute;
+    width: 346px;
+    height: 629px;
+    left: 109px;
+    top: 151px;
+}
+
+.menu1{
+    position: absolute;
+    width: 304px;
+    height: 60px;
+    left: 706px;
+    top: 244.45px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 150%;
+    /* identical to box height, or 60px */
+    
+    letter-spacing: -0.022em;
+    
+    color: #1E1E1E;
+}
+
+.menu2{
+    position: absolute;
+    width: 419px;
+    height: 60px;
+    left: 706px;
+    top: 394.45px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 150%;
+    /* identical to box height, or 60px */
+    
+    letter-spacing: -0.022em;
+    
+    color: #1E1E1E;
+}
+
+.menu3{
+    position: absolute;
+    width: 576px;
+    height: 60px;
+    left: 706px;
+    top: 553.45px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 150%;
+    /* identical to box height, or 60px */
+    
+    letter-spacing: -0.022em;
+    
+    color: #1E1E1E;
+}
+
+.menu4{
+    position: absolute;
+    width: 771px;
+    height: 60px;
+    left: 706px;
+    top: 712.45px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 150%;
+    /* identical to box height, or 60px */
+    
+    letter-spacing: -0.022em;
+    
+    color: #1E1E1E;
+    
+}
+
+.bolo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 567px;
+    top: 234px;
+}
+
+.localização{
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    left: 567px;
+    top: 394px;
+}
+
+.email{
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    left: 564px;
+    top: 561px;
+}
+
+.telefone{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 567px;
+    top: 728px;    
+}
